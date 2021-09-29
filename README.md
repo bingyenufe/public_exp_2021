@@ -8,6 +8,7 @@
 **导论**：[资料](https://pan.baidu.com/s/1tSCmQa2PonAYHdqojioPew)<br>
 **第二章**：[资料](https://pan.baidu.com/s/1cqQxkPS39WVg-4uPqT-lzQ)<br>
 **第三章**：[资料](https://pan.baidu.com/s/1u2qcKYUpunK25X8y6dWl2Q)<br>
+**第四章**：[资料](https://pan.baidu.com/s/1sfgElnyX8nzw9ZE2dLxt4g)<br>
   
 ## 上课录屏  
 W1_T_1表示第一周周二第一小节课  
