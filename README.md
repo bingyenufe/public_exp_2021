@@ -12,7 +12,7 @@
   
 ## 上课录屏  
 W1_T_1表示第一周周二第一小节课  
-第三周因端午放假  
+第三周因端午放假，第五周因国庆放假   
 [W1_T_1](http://aiplay.iflyink.com/#/webShare?localId=951225b80ea9b6d0057df7693d0ae67c&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W1_T_2](http://aiplay.iflyink.com/#/webShare?localId=c058afb70b5edac44bf3f19d0bba0c98&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W2_T_1](http://aiplay.iflyink.com/#/webShare?localId=801bd5f3e22a3824fd0af44743083ef9&uid=aGd3gheQzzdC8BG3RBtgUe1EpUVU0saYjpURV4EC0lEKQd7tnFEWuX6XrSoZujCi8ZXXoqs5JiRUnWWbyza86WazPvSmZjptT5JGQ/XDx150BMDoQ1u3yu1gpsetukftbzCtvzIgukVmptRviBXLZ/Fz0mGAnGNtduFCGWQ6/ss=)&emsp;
@@ -24,4 +24,4 @@ W1_T_1表示第一周周二第一小节课
 [W4_W_1](http://aiplay.iflyink.com/#/webShare?localId=bf3a4d2cdd9f4aca7729028584e753dc&uid=KUOeK1ZWAbiqIBf9XeQLAHxHN9uk1F5tJ8Nr2R/YYKgrBO6s%2BOYb900VnwBDQ%2B0yTyR/Fo3O7gABpqaLuv7pmTbJCP3vPhst5si0zNK75jiTyNLEcq05ndTbHrb4UnIF05GtTgCrignqbwvpaAyxGQKMPgXtGZSSvD0Exb9uM7c=)&emsp;
 [W4_W_2](http://aiplay.iflyink.com/#/webShare?localId=bb8b44d05ce3f5135f2f924326cc4e62&uid=KUOeK1ZWAbiqIBf9XeQLAHxHN9uk1F5tJ8Nr2R/YYKgrBO6s%2BOYb900VnwBDQ%2B0yTyR/Fo3O7gABpqaLuv7pmTbJCP3vPhst5si0zNK75jiTyNLEcq05ndTbHrb4UnIF05GtTgCrignqbwvpaAyxGQKMPgXtGZSSvD0Exb9uM7c=)&emsp;
 [W6_T_1](http://aiplay.iflyink.com/#/webShare?localId=f7a66edde7be10089748507d89923399&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)&emsp;
-[W6_T_12](http://aiplay.iflyink.com/#/webShare?localId=5c23a1937eac2453bcc1bbd07491a78c&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)
+[W6_T_2](http://aiplay.iflyink.com/#/webShare?localId=5c23a1937eac2453bcc1bbd07491a78c&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)
