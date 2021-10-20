@@ -9,6 +9,7 @@
 **第二章**：[资料](https://pan.baidu.com/s/1cqQxkPS39WVg-4uPqT-lzQ)<br>
 **第三章**：[资料](https://pan.baidu.com/s/1u2qcKYUpunK25X8y6dWl2Q)<br>
 **第四章**：[资料](https://pan.baidu.com/s/1sfgElnyX8nzw9ZE2dLxt4g)<br>
+**第五章**：[资料](https://pan.baidu.com/s/1Qrgeg3Mr3CWr4BmO8a44lg)<br>
   
 ## 上课录屏  
 W1_T_1表示第一周周二第一小节课  
@@ -26,4 +27,6 @@ W1_T_1表示第一周周二第一小节课
 [W6_T_1](http://aiplay.iflyink.com/#/webShare?localId=f7a66edde7be10089748507d89923399&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)&emsp;
 [W6_T_2](http://aiplay.iflyink.com/#/webShare?localId=5c23a1937eac2453bcc1bbd07491a78c&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)&emsp;
 [W6_W_1](http://aiplay.iflyink.com/#/webShare?localId=ce1e86a1a9f8bf56bdb0b403d12a4964&uid=dk7WxiRNIsLMmngGxNqY2I45puTOt3cQay4Znu4m6z8YbWoh9JuzT8LuifQ5NBuLVDeoisP5ySEoTIMf4Y2fzymq//A7TTb%2B4q24rIyZk8d0R6uRRWkxlxrj9Ju0OD/AFJV9Bn9m1Qg%2Bp4vWKWOcYgAyIQWKmDiJ6yClC91V0mw=)&emsp;
-[W6_W_2](http://aiplay.iflyink.com/#/webShare?localId=f1827108a64d96cb50e6a2ea72e0bc15&uid=dk7WxiRNIsLMmngGxNqY2I45puTOt3cQay4Znu4m6z8YbWoh9JuzT8LuifQ5NBuLVDeoisP5ySEoTIMf4Y2fzymq//A7TTb%2B4q24rIyZk8d0R6uRRWkxlxrj9Ju0OD/AFJV9Bn9m1Qg%2Bp4vWKWOcYgAyIQWKmDiJ6yClC91V0mw=)
+[W6_W_2](http://aiplay.iflyink.com/#/webShare?localId=f1827108a64d96cb50e6a2ea72e0bc15&uid=dk7WxiRNIsLMmngGxNqY2I45puTOt3cQay4Znu4m6z8YbWoh9JuzT8LuifQ5NBuLVDeoisP5ySEoTIMf4Y2fzymq//A7TTb%2B4q24rIyZk8d0R6uRRWkxlxrj9Ju0OD/AFJV9Bn9m1Qg%2Bp4vWKWOcYgAyIQWKmDiJ6yClC91V0mw=)&emsp;
+[W7_T_1](http://aiplay.iflyink.com/#/webShare?localId=5537b2169c70e81c48cb8a9735de7f68&uid=aeK/0ST%2BuwJe6DyfudX8ayqaLVtdBV5sNiIUMBTqu47AtvWmc2C9oa9sO7TvCcJukUw8lSyDVCvo1laQgfR53gFbS3cxSePTQT7u5YQfOuZS2S%2BggRBOhZUM1skGW8BjwuVI3pQLVloNpDBuDCo39WEa9kiJeE%2BRSgIe3BhgQko=)&emsp;
+[W7_T_2](http://aiplay.iflyink.com/#/webShare?localId=1b17f4daa1a3bd3cc339e52c10ad0201&uid=aeK/0ST%2BuwJe6DyfudX8ayqaLVtdBV5sNiIUMBTqu47AtvWmc2C9oa9sO7TvCcJukUw8lSyDVCvo1laQgfR53gFbS3cxSePTQT7u5YQfOuZS2S%2BggRBOhZUM1skGW8BjwuVI3pQLVloNpDBuDCo39WEa9kiJeE%2BRSgIe3BhgQko=)
