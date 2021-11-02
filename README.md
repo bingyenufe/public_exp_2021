@@ -10,6 +10,7 @@
 **第三章**：[资料](https://pan.baidu.com/s/1u2qcKYUpunK25X8y6dWl2Q)<br>
 **第四章**：[资料](https://pan.baidu.com/s/1sfgElnyX8nzw9ZE2dLxt4g)<br>
 **第五章**：[资料](https://pan.baidu.com/s/1Qrgeg3Mr3CWr4BmO8a44lg)<br>
+**第六章**：[资料](https://pan.baidu.com/s/1dhoqj78UtpJOAspOJw0bIQ)<br>
   
 ## 上课录屏  
 W1_T_1表示第一周周二第一小节课  
@@ -34,6 +35,5 @@ W1_T_1表示第一周周二第一小节课
 [W8_T_2](http://aiplay.iflyink.com/#/webShare?localId=68d5ac50249ebb191bccad03b469cb24&uid=hPKx0p%2BsHICyQv7RQlK0HGA1VXq0ClV1Z6WD%2B2OyiqrGuO57JUzHH0l8I4uhqfkvWO9NzzfjmxrWQqYMBHzPoDKSwlqUMXdgtEaSb0ZBTkLHmKwY56IPIuMLHWrLq%2BXyfr6nqoC1yISpI/2bTMgQa0unlPqwCGCnIijTh8pJ6Q==)&emsp;
 [W8_W_1](http://aiplay.iflyink.com/#/webShare?localId=c3c1187a6d10a3c3299639ef71e72e09&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
 [W8_W_2](http://aiplay.iflyink.com/#/webShare?localId=66b7f61a4c1182e031502d088cab6bd4&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
-[W9_T_1](http://aiplay.iflyink.com/#/webShare?localId=01fc61412d5b42fc3f3268e5af5261de&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=))&emsp;
+[W9_T_1](http://aiplay.iflyink.com/#/webShare?localId=01fc61412d5b42fc3f3268e5af5261de&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
 [W9_T_2](http://aiplay.iflyink.com/#/webShare?localId=bd4b2b28b711442e7b28521635ed66ed&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)
-
