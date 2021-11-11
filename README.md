@@ -5,6 +5,7 @@
 **计分**：平时，30%；期末，70%。其中，平时成绩包括：自动获得18分；点名、作业、课堂测试12分；课堂上会抽学生回答问题，学生给出体现出自己思考的回答（可以是错的）计1分，否则计-1分，此部分作为bonus。<br>
   
 ## 课程资料  
+以下如需提取码，均是1234  
 **导论**：[资料](https://pan.baidu.com/s/1tSCmQa2PonAYHdqojioPew)<br>
 **第二章**：[资料](https://pan.baidu.com/s/1cqQxkPS39WVg-4uPqT-lzQ)<br>
 **第三章**：[资料](https://pan.baidu.com/s/1u2qcKYUpunK25X8y6dWl2Q)<br>
@@ -15,6 +16,7 @@
 ## 上课录屏  
 W1_T_1表示第一周周二第一小节课  
 第三周因端午放假，第五周因国庆放假   
+第七章开始，内容变得简单，不再录屏  
 [W1_T_1](http://aiplay.iflyink.com/#/webShare?localId=951225b80ea9b6d0057df7693d0ae67c&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W1_T_2](http://aiplay.iflyink.com/#/webShare?localId=c058afb70b5edac44bf3f19d0bba0c98&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W2_T_1](http://aiplay.iflyink.com/#/webShare?localId=801bd5f3e22a3824fd0af44743083ef9&uid=aGd3gheQzzdC8BG3RBtgUe1EpUVU0saYjpURV4EC0lEKQd7tnFEWuX6XrSoZujCi8ZXXoqs5JiRUnWWbyza86WazPvSmZjptT5JGQ/XDx150BMDoQ1u3yu1gpsetukftbzCtvzIgukVmptRviBXLZ/Fz0mGAnGNtduFCGWQ6/ss=)&emsp;
@@ -36,4 +38,7 @@ W1_T_1表示第一周周二第一小节课
 [W8_W_1](http://aiplay.iflyink.com/#/webShare?localId=c3c1187a6d10a3c3299639ef71e72e09&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
 [W8_W_2](http://aiplay.iflyink.com/#/webShare?localId=66b7f61a4c1182e031502d088cab6bd4&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
 [W9_T_1](http://aiplay.iflyink.com/#/webShare?localId=01fc61412d5b42fc3f3268e5af5261de&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
-[W9_T_2](http://aiplay.iflyink.com/#/webShare?localId=bd4b2b28b711442e7b28521635ed66ed&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)
+[W9_T_2](http://aiplay.iflyink.com/#/webShare?localId=bd4b2b28b711442e7b28521635ed66ed&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
+[W10_T_1](http://aiplay.iflyink.com/#/webShare?localId=53b3717e7d8ae0bdf6f24eadbdd4f137&uid=gL5uV36VBUVzaEIoPpY3ECjXheXAC1UdzQC9RxrL4RYp6V7NbGmUCUCJAKDlzugrSYIz3y0tE1KFFR2F/VZkdtnxoWI08M3DGzbnak7GZs86H7FijKg5fEyu%2BwPwjsfUVTiE/UzeN2MqWd7i/nAOrU8v3bIca1hLh8eyhd003oM=)&emsp;
+[W10_T_2](http://aiplay.iflyink.com/#/webShare?localId=08a71ac73e3617e2b2034fafa02f9b63&uid=gL5uV36VBUVzaEIoPpY3ECjXheXAC1UdzQC9RxrL4RYp6V7NbGmUCUCJAKDlzugrSYIz3y0tE1KFFR2F/VZkdtnxoWI08M3DGzbnak7GZs86H7FijKg5fEyu%2BwPwjsfUVTiE/UzeN2MqWd7i/nAOrU8v3bIca1hLh8eyhd003oM=)&emsp;
+[W10_W_1](http://aiplay.iflyink.com/#/webShare?localId=6cc471a19b30dd355830ee97d8517d8b&uid=gL5uV36VBUVzaEIoPpY3ECjXheXAC1UdzQC9RxrL4RYp6V7NbGmUCUCJAKDlzugrSYIz3y0tE1KFFR2F/VZkdtnxoWI08M3DGzbnak7GZs86H7FijKg5fEyu%2BwPwjsfUVTiE/UzeN2MqWd7i/nAOrU8v3bIca1hLh8eyhd003oM=)
