@@ -12,6 +12,7 @@
 **第四章**：[资料](https://pan.baidu.com/s/1sfgElnyX8nzw9ZE2dLxt4g)<br>
 **第五章**：[资料](https://pan.baidu.com/s/1Qrgeg3Mr3CWr4BmO8a44lg)<br>
 **第六章**：[资料](https://pan.baidu.com/s/1dhoqj78UtpJOAspOJw0bIQ)<br>
+**第七章**：[资料](https://pan.baidu.com/s/1YL0TD0yL0up-3_Lzu1bLTg)<br>
   
 ## 上课录屏  
 W1_T_1表示第一周周二第一小节课  
