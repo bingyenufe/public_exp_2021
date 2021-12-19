@@ -19,6 +19,8 @@ output: html_document
 **第七章**：[资料](https://pan.baidu.com/s/1YL0TD0yL0up-3_Lzu1bLTg)<br>
 **第八章**：[资料](https://pan.baidu.com/s/1KWF27OVobSTFc-w_FzI3bQ)<br>
 **第九章**：[资料](https://pan.baidu.com/s/1EEgB89cthTnAp6mmpIdEPw)<br>
+**第十章**：[资料](https://pan.baidu.com/s/1T5mEUCJBORDSbWMxA3m52g)<br>
+**第十三章**：[资料](https://pan.baidu.com/s/1VRyzLBCopkNgLOQG0Gc_fA)<br>
   
 ## 上课录屏  
 W1_T_1表示第一周周二第一小节课  
